@@ -1,0 +1,13 @@
+{
+    "name": "ship-sun/admin-bundle",
+    "description": "symfony admin bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shipSun",
+            "email": "543999860@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
